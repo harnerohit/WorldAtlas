@@ -1,12 +1,27 @@
-# React + Vite
+# 🌍 WorldAtlas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive and visually engaging world atlas built with **React** and **Vite**.  
+Explore countries, flags, and global data with a fast, responsive, and modern UI.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+🔗 [View the Project on Vercel](https://world-atlas-oenw.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Overview
+WorldAtlas is a frontend web application designed to present country information in a clean and user-friendly format.  
+It integrates real-world data from APIs and displays details like flags, population, capital, and more — ideal for learners and travelers curious about the world.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Vite  
+- **Styling:** CSS3, Flexbox/Grid  
+- **API Handling:** Axios  
+- **Icons:** React Icons  
+- **Deployment:** Vercel  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Features
+- 🌐 Browse and explore countries with flag, name, and basic info  
+- 🔍 Search functionality to quickly find any country  
+- 📱 Fully responsive design (mobile + desktop friendly)  
+- ⚡ Built with Vite for blazing-fast performance  
+- ☁️ Deployed on Vercel for seamless hosting and CI/CD integration  
+
+## 🧩 Folder Structure
