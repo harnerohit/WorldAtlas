@@ -62,9 +62,9 @@ Rohit Harne
 Full Stack Developer | React | Spring Boot
 📧 harnerohit832@gmail.com
 
-🔗 LinkedIn
+🔗 LinkedIn - https://www.linkedin.com/in/harnerohit-60397b220/
 
-🔗 GitHub
+🔗 GitHub - https://github.com/harnerohit
 
 
 ---
