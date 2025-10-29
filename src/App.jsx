@@ -8,6 +8,8 @@ import Country from './pages/Country';
 import Home from './pages/Home';
 import ErrorPage from './pages/ErrorPage';
 import CountryDetails from './component/Layout/CountryDetails';
+import "@fortawesome/fontawesome-free/css/all.min.css";
+
 
 const router = createBrowserRouter([
   {
