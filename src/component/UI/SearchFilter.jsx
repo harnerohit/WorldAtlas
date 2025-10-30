@@ -24,14 +24,15 @@ const SearchFilter = ({search , setSearch , filter , setFilter , countries , set
     <div>
       <>
       <section className='section-searchFilter container'>
-        <div>
-        <input 
-        type="text"
-        placeholder='Search ...'
-        value={search}
-        onChange={handleInputChange}
-        />
-        </div>
+        <div className="search-wrapper">
+            <i className="fa fa-search"></i> 
+            <input
+              type="text"
+              placeholder='Search ...'
+              value={search}
+              onChange={handleInputChange}
+            />
+          </div>
 
         <div>
             <button onClick={()=>sortCountries("asc")}>Asc</button>
